@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: rgb(57,31,189)
+  color: rgb(128, 89, 45)
 }
 
 a:hover {
@@ -18,7 +18,7 @@ a:hover {
 header {
   margin-bottom: 20px;
   padding: 20px;
-  border-bottom: 1px solid rgb(100, 149, 237)
+  border-bottom: 1px solid rgb(92, 64, 32)
 }
 
 header h1 {
@@ -40,7 +40,7 @@ header nav ul li {
 
 .project {
   margin-bottom: 20px;
-  border-bottom: 1px solid rgb(0, 174, 255);
+  border-bottom: 1px solid rgb(92, 64, 32);
 }
 
 .project img, #aboutme img {
@@ -53,4 +53,12 @@ header nav ul li {
 .project h2, #aboutme h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
+}
+/* Old color (214, 212, 191)
+  New color (237, 227, 187)
+*/
+
+body,
+#aboutme {
+  background-color: rgb(237, 227, 187);
 }
