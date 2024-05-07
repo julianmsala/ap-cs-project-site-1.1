@@ -62,3 +62,7 @@ body,
 #aboutme {
   background-color: rgb(237, 227, 187);
 }
+
+img {
+  border: 2px solid #5c4020;
+}
