@@ -66,3 +66,24 @@ body,
 img {
   border: 2px solid #5c4020;
 }
+
+.ai-project-container {
+  text-align: center; /* Center align the content within the .ai-project-container class */
+}
+
+.project {
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgb(92, 64, 32);
+}
+
+.project img {
+  width: 250px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.project h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
